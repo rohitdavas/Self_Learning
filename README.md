@@ -4,9 +4,9 @@ This repository is the knowledge that I acquired on my own through learning from
 This Repo will consist of assignments, study materials, Research Papers.
 
 ## Purpose of this Repo :
-    - I will be making New repo probably by the name of _knowledge matters_ , target of which is to collect all the free good courses in Deep Learning, Robotics, Machine Learnig and many others and _provide a guide on how one should learn them from beginner to expert using multiple free courses provided by Stanford, Coursera, MIT & other universities. 
-    - to help out the people who wants to learn, learn in a sequenced way.
-    - You can look at my assignments if you are stuck somewhere.
+ - I will be making New repo probably by the name of _knowledge matters_ , target of which is to collect all the free good courses in Deep Learning, Robotics, Machine Learnig and many others and _provide a guide on how one should learn them from beginner to expert using multiple free courses provided by Stanford, Coursera, MIT & other universities. 
+ - to help out the people who wants to learn, learn in a sequenced way.
+ - You can look at my assignments if you are stuck somewhere.
 
 
 ## List of my Learning :
