@@ -1,6 +1,8 @@
 ### Hi, 
 
-There are other resources mentioned during the course.
+Assignments are incudes in week 2, week 3, week 4 folder.
+
+There are other resources mentioned during the course which I am providing the link here. 
 
 - week 2 
     1. [WildMl Implementing A neural Network From Scratch](http://www.wildml.com/201509implementing-a-neural-network-from-scratch/)
