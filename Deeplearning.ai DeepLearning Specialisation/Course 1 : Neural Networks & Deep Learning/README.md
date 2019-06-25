@@ -16,6 +16,4 @@ There are other resources mentioned during the course which I am providing the l
   1. [Autoload of Modules in Ipython](https://stackoverflow.com/questions/1907993/autoreload-of-modules-in-ipython)
 
 
-  <a href = "http://cs231n.github.io/neural-networks-case-study/" target = "_blank"> CS231n </a>
-
   ***
