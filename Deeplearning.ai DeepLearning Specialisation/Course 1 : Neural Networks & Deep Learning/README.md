@@ -11,6 +11,6 @@ There are other resources mentioned during the course.
     1. [Demystifying Neural Networks](http://scs.ryerson.ca/~aharley/neural-networks/)
 
 - week 4
-  1.[Autoload of Modules in Ipython](https://stackoverflow.com/questions/1907993/autoreload-of-modules-in-ipython)
+  1. [Autoload of Modules in Ipython](https://stackoverflow.com/questions/1907993/autoreload-of-modules-in-ipython)
 
   ***
