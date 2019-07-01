@@ -1,6 +1,6 @@
-#Hi there, 
+# Hi there, 
 >this repo contains all the five course of specialisation materials.
->I highly recommend this specialisation .
+>I highly recommend this specialisation for those who know machine learning and are moving to deeplearning.
 
 Link to the [deeplearning.ai specialisation](https://www.coursera.org/specializations/deep-learning)
 
