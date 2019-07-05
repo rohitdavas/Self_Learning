@@ -10,8 +10,8 @@ I am not a student of stanford, I am just auditing it remotely.
 
 
 - Assignments: 
-    1. Introduction :  foundations( due on 4th july) in lecture 1 folder
-    2. Search:         Text Reconstruction (due on 9th july) in lecture 4 folder
+    1. Introduction :  foundations( due on 4th july)
+    2. Search:         Text Reconstruction (due on 9th july)
     3. Machine learning: Sentiment Classification( due date---)
     4. CSPs : Course Scheduling
     5. MDPs : BlackJack
