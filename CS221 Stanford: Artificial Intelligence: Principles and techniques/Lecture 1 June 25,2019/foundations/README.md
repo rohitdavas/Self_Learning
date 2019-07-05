@@ -1,5 +1,5 @@
 ## Hi there, 
-This is the first assignment of Stanford CS229 Summer 2019.
+This is the first assignment of Stanford CS221 Summer 2019.
 
 > Assignment 1 due on July 4, 2019
 
@@ -8,7 +8,8 @@ This is the first assignment of Stanford CS229 Summer 2019.
       - Solutions are in Submission.py
       - run grader.py to grade it
 
-My grades :
+My grades :========== END GRADING [9/9 points + 0/0 extra credit]
+
  '''
  ========== START GRADING
 ----- START PART 3a-0-basic: simple test case

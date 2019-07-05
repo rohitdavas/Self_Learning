@@ -7,3 +7,19 @@ I am not a student of stanford, I am just auditing it remotely.
 >
 >There are some previous year videos, but I have not found them good.
 > I have made my own handwritten notes, but they are some as professor's notes in the slides. Mine I made along with some revision content.
+
+
+- Assignments: 
+    1. Introduction :  foundations( due on 4th july)
+    2. Search:         Text Reconstruction (due on 9th july)
+    3. Machine learning: Sentiment Classification( due date---)
+    4. CSPs : Course Scheduling
+    5. MDPs : BlackJack
+    6. Bayesian Networks: Car Tracking
+    7. Games:  Pac-man
+
+[COURSE WEBSITE](http://web.stanford.edu/class/cs221/)
+
+**Star repo if it helps you.
+Thanks**
+
