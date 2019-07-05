@@ -18,6 +18,8 @@ I am not a student of stanford, I am just auditing it remotely.
     6. Bayesian Networks: Car Tracking
     7. Games:  Pac-man
 
+- Book refernce :
+>You can find refrence on website. I have downloaded Artificial Intelligence - A modern approach
 [COURSE WEBSITE](http://web.stanford.edu/class/cs221/)
 
 **Star repo if it helps you.
